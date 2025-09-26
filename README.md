@@ -37,4 +37,15 @@ Request more specific tips to refine your technique.
 
 ---
 
-## 🗂 Folder Setup
+## 🌍 Public Access
+At this time, there is **no publicly accessible version** of Tennis Coach AI.
+
+This is because the app relies on external APIs for advanced features like:
+- AI-powered video analysis
+- Real-time tennis coaching advice
+- Strategy recommendations
+
+These services are **usage-based and paid**, which could lead to significant costs if the app was made public.  
+
+If you would like to **request access** or express interest in trying out the app, please fill out this form:  
+[**Enquiry Form**](https://docs.google.com/forms/d/e/1FAIpQLSeRUqa2cv2fpj0VCQAOHVm6izMR5TFkwjr6-g_DuY-5VhE3ig/viewform?usp=header)
