@@ -1,0 +1,90 @@
+{
+  "racquets": {
+    "factors_to_consider": {
+      "weight": {
+        "light": "Under 9.5 oz - easier to maneuver, less powerful",
+        "medium": "9.5-10.5 oz - balanced performance", 
+        "heavy": "Over 10.5 oz - more power and stability"
+      },
+      "head_size": {
+        "midsize": "85-95 sq in - more control, smaller sweet spot",
+        "midplus": "95-105 sq in - good balance of power and control",
+        "oversize": "105+ sq in - more power, larger sweet spot"
+      },
+      "balance": {
+        "head_heavy": "More power, less maneuverability",
+        "even_balance": "Balanced feel",
+        "head_light": "More maneuverable, quicker swings"
+      }
+    },
+    "by_skill_level": {
+      "beginner": [
+        "Larger head size (100+ sq in)",
+        "Lighter weight (8.5-9.5 oz)",
+        "More flexible frame",
+        "Pre-strung racquets are fine"
+      ],
+      "intermediate": [
+        "Mid-plus head size (95-105 sq in)",
+        "Medium weight (9.5-10.5 oz)",
+        "Consider string preferences",
+        "More control-oriented features"
+      ],
+      "advanced": [
+        "Smaller head size for control",
+        "Heavier weight (10+ oz)",
+        "Specific string setups",
+        "Premium materials"
+      ]
+    }
+  },
+  "strings": {
+    "materials": {
+      "nylon": "Most common, durable, good for beginners",
+      "polyester": "Control-oriented, used by pros, less comfortable",
+      "natural_gut": "Best feel and power, expensive, less durable",
+      "synthetic_gut": "Good balance of performance and cost"
+    },
+    "tension": {
+      "low": "50-55 lbs - more power, less control",
+      "medium": "55-60 lbs - balanced performance",
+      "high": "60+ lbs - more control, less power"
+    },
+    "maintenance": [
+      "Restring regularly (every 3-6 months for regular players)",
+      "Higher tension loses more quickly",
+      "Climate affects string performance"
+    ]
+  },
+  "shoes": {
+    "court_surfaces": {
+      "hard_court": "Durable outsole, good lateral support",
+      "clay_court": "Herringbone pattern, slides well on clay",
+      "grass_court": "Small nubs for traction, rare specialty shoe",
+      "all_court": "Versatile for multiple surfaces"
+    },
+    "fit_considerations": [
+      "Should fit snugly but not tight",
+      "Room for toe movement",
+      "Good heel lock",
+      "Replace when tread wears down"
+    ]
+  },
+  "accessories": {
+    "grips": [
+      "Overgrips for sweat absorption",
+      "Replacement grips for worn handles",
+      "Grip size affects comfort and control"
+    ],
+    "dampeners": [
+      "Reduce string vibration",
+      "Personal preference for feel",
+      "No performance benefit proven"
+    ],
+    "bags": [
+      "Racquet compartments to prevent damage",
+      "Shoe compartments for hygiene", 
+      "Thermal protection for strings"
+    ]
+  }
+}

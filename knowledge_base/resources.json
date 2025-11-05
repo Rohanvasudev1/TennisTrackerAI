@@ -1,0 +1,112 @@
+{
+  "tennis_resources": [
+    {
+      "Title": "ITF Rules of Tennis (2025)",
+      "Category": "Rules",
+      "Source_URL": "https://www.itftennis.com/en/about-us/governance/rules-and-regulations/rules-of-tennis/",
+      "Key_Topics": "Scoring, lets, code violations, equipment"
+    },
+    {
+      "Title": "ITF World Tennis Tour Regulations (2025)",
+      "Category": "Rules",
+      "Source_URL": "https://www.itftennis.com/en/about-us/governance/rules-and-regulations/world-tennis-tour-regulations/",
+      "Key_Topics": "Tournament entry, wildcards, penalties"
+    },
+    {
+      "Title": "Systematic Review: Kinematics of the Tennis Serve (2024)",
+      "Category": "Technique/Biomechanics",
+      "Source_URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638800/",
+      "Key_Topics": "Serve mechanics, joint sequencing, injury prevention"
+    },
+    {
+      "Title": "USTA Sport Science: Biomechanical Analysis of the Tennis Volley",
+      "Category": "Technique/Biomechanics",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Biomechanical%20Analysis%20of%20the%20Tennis%20Volley.pdf",
+      "Key_Topics": "Volley checkpoints, biomechanics, implications"
+    },
+    {
+      "Title": "ITF Conditioning: Fitness Training",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.itftennis.com/media/2510/2510.pdf",
+      "Key_Topics": "Training principles, tennis-specific fitness"
+    },
+    {
+      "Title": "ITF Conditioning: Fitness Testing",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.itftennis.com/media/2511/2511.pdf",
+      "Key_Topics": "Fitness tests, age norms, progress tracking"
+    },
+    {
+      "Title": "USTA Agility/Movement Drills",
+      "Category": "Drills",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Agility%20and%20Movement%20Drills.pdf",
+      "Key_Topics": "Footwork drills, lateral alley, agility"
+    },
+    {
+      "Title": "Developing Footwork Situationally",
+      "Category": "Drills",
+      "Source_URL": "https://journals.humankinetics.com/downloadpdf/journals/ijsc/1/2/article-p103.pdf",
+      "Key_Topics": "Tactical movement, situational drills"
+    },
+    {
+      "Title": "Tennis Strategy Booklet",
+      "Category": "Tactics",
+      "Source_URL": "https://tenniseducation.com/strategybooklet.pdf",
+      "Key_Topics": "Singles & doubles tactics, patterns"
+    },
+    {
+      "Title": "Doubles Strategies for Beginners",
+      "Category": "Tactics",
+      "Source_URL": "https://www.tenniscourts.com/doubles-strategies-beginners.pdf",
+      "Key_Topics": "Doubles positioning, formations"
+    },
+    {
+      "Title": "USTA Player Development: Training Pathway",
+      "Category": "Practice Planning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Team%20USA%20Player%20Development.pdf",
+      "Key_Topics": "Long-term pathway, loads, progression"
+    },
+    {
+      "Title": "USTA Dynamic Warm-Up & Flexibility Guide",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Dynamic%20Warm-up%20Flexibility.pdf",
+      "Key_Topics": "Dynamic warm-up, stretches, flexibility"
+    },
+    {
+      "Title": "AAOS Therapeutic Exercise for Tennis Elbow",
+      "Category": "Injury",
+      "Source_URL": "https://orthoinfo.aaos.org/globalassets/pdfs/tenniselbowexercises.pdf",
+      "Key_Topics": "Epicondylitis, rehab exercises"
+    },
+    {
+      "Title": "USTA High-School Sample Practice Plan",
+      "Category": "Practice Planning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/NetGenPracticePlan.pdf",
+      "Key_Topics": "Session template, time-boxed plan"
+    },
+    {
+      "Title": "Match Charting Project – Quickstart Guide",
+      "Category": "Practice/Charting",
+      "Source_URL": "https://www.matchchartingproject.com/assets/mcpquickstart.pdf",
+      "Key_Topics": "Charting notation, stats"
+    },
+    {
+      "Title": "LTA Tennis Leaders Guide",
+      "Category": "Coaching",
+      "Source_URL": "https://www.lta.org.uk/leadership-guide.pdf",
+      "Key_Topics": "Leadership, coaching juniors"
+    },
+    {
+      "Title": "LTA Clubs & Coaches Self-Service Guide",
+      "Category": "Coaching",
+      "Source_URL": "https://www.lta.org.uk/globalassets/officiating-roles/clubs-coaches-guide.pdf",
+      "Key_Topics": "Club management, coach relationships"
+    },
+    {
+      "Title": "ITF JTI Guidance Document (2025)",
+      "Category": "Coaching",
+      "Source_URL": "https://www.itftennis.com/media/5404/5404.pdf",
+      "Key_Topics": "Junior pathways, coach education"
+    }
+  ]
+}

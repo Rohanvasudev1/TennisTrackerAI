@@ -1,0 +1,97 @@
+{
+  "tennis_fitness": {
+    "endurance": {
+      "importance": "Tennis matches can last several hours, requiring excellent cardiovascular fitness",
+      "training": [
+        "Long distance running for base endurance",
+        "Interval training to simulate match intensity",
+        "Court sprints and suicide runs",
+        "Cycling for low-impact cardio"
+      ],
+      "on_court_drills": [
+        "Continuous rally drills",
+        "Multi-ball feeding with movement",
+        "Point play with short rest periods"
+      ]
+    },
+    "speed_and_agility": {
+      "importance": "Quick first step and rapid direction changes are crucial",
+      "training": [
+        "Ladder drills for foot speed",
+        "Cone drills for agility",
+        "Plyometric exercises",
+        "Reaction training"
+      ],
+      "tennis_specific": [
+        "Split-step timing drills",
+        "Side shuffle exercises",
+        "Forward and backward movement drills",
+        "Multi-directional sprints"
+      ]
+    },
+    "strength": {
+      "core": {
+        "importance": "Provides stability and power transfer",
+        "exercises": [
+          "Planks and side planks",
+          "Russian twists",
+          "Medicine ball rotations",
+          "Dead bugs"
+        ]
+      },
+      "legs": {
+        "importance": "Foundation for all movement and power generation",
+        "exercises": [
+          "Squats and lunges",
+          "Single-leg exercises",
+          "Calf raises",
+          "Jump squats"
+        ]
+      },
+      "upper_body": {
+        "importance": "Stroke power and injury prevention",
+        "exercises": [
+          "Rotator cuff strengthening",
+          "Shoulder stability work",
+          "Lat pulldowns",
+          "Push-ups and variations"
+        ]
+      }
+    },
+    "flexibility": {
+      "importance": "Prevents injury and allows full range of motion",
+      "daily_routine": [
+        "Dynamic warm-up before playing",
+        "Static stretching after playing",
+        "Hip flexor stretches",
+        "Shoulder and arm stretches"
+      ],
+      "problem_areas": [
+        "Hip flexors (from ready position)",
+        "Shoulders (from serving motion)",
+        "Calves and achilles",
+        "Lower back"
+      ]
+    },
+    "nutrition": {
+      "pre_match": [
+        "Eat 2-3 hours before playing",
+        "Focus on carbohydrates for energy",
+        "Avoid heavy, fatty foods",
+        "Stay well hydrated"
+      ],
+      "during_match": [
+        "Drink water regularly",
+        "Sports drinks for matches over 1 hour",
+        "Light snacks like bananas between sets",
+        "Avoid trying new foods"
+      ],
+      "recovery": [
+        "Protein within 30 minutes post-match",
+        "Carbohydrates to replenish energy",
+        "Continue hydrating",
+        "Anti-inflammatory foods"
+      ]
+    }
+  }
+}

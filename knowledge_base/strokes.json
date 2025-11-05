@@ -1,0 +1,81 @@
+{
+  "forehand": {
+    "description": "The forehand is typically a player's most powerful and reliable stroke, hit on the dominant side of the body.",
+    "technique": {
+      "grip": "Eastern, Semi-Western, or Western grip depending on playing style",
+      "preparation": "Unit turn with racquet back, non-dominant hand guides the racquet",
+      "contact_point": "Out in front of the body, at about waist height",
+      "follow_through": "Across the body, finishing high over the opposite shoulder"
+    },
+    "common_mistakes": [
+      "Contact point too late or too close to the body",
+      "Not stepping into the shot",
+      "Insufficient rotation",
+      "Grip too loose or too tight"
+    ],
+    "drills": [
+      "Wall practice for consistency",
+      "Feed and hit with coach",
+      "Cross-court rally practice",
+      "Target practice to corners"
+    ]
+  },
+  "backhand": {
+    "description": "The backhand can be hit with one or two hands and is crucial for defensive and offensive play.",
+    "one_handed": {
+      "grip": "Eastern backhand grip",
+      "preparation": "Turn sideways early, racquet back with non-dominant hand support",
+      "contact_point": "Slightly ahead of the front hip",
+      "follow_through": "High finish across the body"
+    },
+    "two_handed": {
+      "grip": "Continental grip with dominant hand, Eastern forehand with non-dominant",
+      "preparation": "Compact backswing with both hands on racquet",
+      "contact_point": "Closer to the body than one-handed",
+      "follow_through": "Both hands finish high"
+    },
+    "common_mistakes": [
+      "Not turning sideways enough",
+      "Breaking the wrists too early",
+      "Insufficient shoulder turn",
+      "Poor footwork and balance"
+    ]
+  },
+  "serve": {
+    "description": "The serve is the most important stroke in tennis as it starts every point.",
+    "technique": {
+      "stance": "Platform or pinpoint stance",
+      "grip": "Continental grip",
+      "toss": "Consistent placement slightly in front and to the right (for right-handers)",
+      "motion": "Fluid upward motion with racquet drop behind the back",
+      "contact": "At full arm extension, hitting up and out"
+    },
+    "types": [
+      "Flat serve - Power and speed",
+      "Slice serve - Curves away from opponent", 
+      "Kick serve - High bounce with topspin"
+    ],
+    "common_mistakes": [
+      "Inconsistent ball toss",
+      "Not using legs for power",
+      "Incorrect grip",
+      "Rushing the motion"
+    ]
+  },
+  "volley": {
+    "description": "Volleys are hit before the ball bounces, typically at the net.",
+    "technique": {
+      "grip": "Continental grip for both forehand and backhand volleys",
+      "preparation": "Short, compact backswing",
+      "contact_point": "Out in front of the body",
+      "follow_through": "Short and controlled"
+    },
+    "strategy": "Used to finish points quickly and apply pressure",
+    "common_mistakes": [
+      "Taking too big a swing",
+      "Not moving feet to get in good position",
+      "Wrong grip",
+      "Not watching the ball closely"
+    ]
+  }
+}

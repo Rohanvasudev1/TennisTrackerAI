@@ -1,0 +1,67 @@
+{
+  "singles_strategy": {
+    "baseline_play": {
+      "description": "Playing from the back of the court, focusing on consistency and placement",
+      "tactics": [
+        "Hit deep to keep opponent back",
+        "Use angles to open up the court",
+        "Vary pace and spin to disrupt rhythm",
+        "Move opponent side to side"
+      ]
+    },
+    "serve_and_volley": {
+      "description": "Aggressive style where player serves and immediately approaches the net",
+      "requirements": "Good serve, quick movement, solid volleys",
+      "best_surfaces": "Grass courts, fast hard courts"
+    },
+    "counter_punching": {
+      "description": "Defensive style that relies on opponent's mistakes",
+      "tactics": [
+        "Get every ball back",
+        "Use opponent's pace against them",
+        "Stay patient and wait for opportunities",
+        "Excellent court coverage required"
+      ]
+    }
+  },
+  "doubles_strategy": {
+    "formations": {
+      "both_back": "Both players start at baseline - good for receiving serve",
+      "one_up_one_back": "Traditional formation with net player and baseline player",
+      "both_up": "Both players at net - aggressive finishing position"
+    },
+    "key_principles": [
+      "Communication is essential",
+      "Control the net when possible",
+      "Target the player at the net",
+      "Use the alley effectively",
+      "Poach when opportunity arises"
+    ],
+    "serving_strategy": [
+      "Serve to the weaker returner when possible",
+      "Mix up placement - wide, body, down the T",
+      "Follow serve to net in most situations",
+      "Communicate with partner about poaching"
+    ]
+  },
+  "mental_strategy": {
+    "between_points": [
+      "Take your time but maintain rhythm",
+      "Focus on next point, not last mistake",
+      "Use positive self-talk",
+      "Stick to pre-point routines"
+    ],
+    "pressure_situations": [
+      "Breathe deeply and relax muscles",
+      "Focus on process, not outcome",
+      "Play one point at a time",
+      "Trust your preparation and instincts"
+    ],
+    "momentum": [
+      "Recognize momentum shifts",
+      "Use timeouts strategically",
+      "Stay aggressive when ahead",
+      "Fight for every point when behind"
+    ]
+  }
+}

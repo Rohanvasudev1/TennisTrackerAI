@@ -1,0 +1,25 @@
+# Web framework
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# LLM Integration
+openai>=1.0.0
+
+# Core ML/AI libraries
+ultralytics>=8.0.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Computer vision and image processing
+opencv-python>=4.6.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# File handling
+python-dotenv>=1.0.0
+
+# Additional utilities
+Pillow>=9.0.0
+requests>=2.31.0

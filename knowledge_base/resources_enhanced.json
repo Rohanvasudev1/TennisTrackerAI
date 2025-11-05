@@ -1,0 +1,130 @@
+{
+  "tennis_resources": [
+    {
+      "Title": "ITF Rules of Tennis (2025)",
+      "Category": "Rules",
+      "Source_URL": "https://www.itftennis.com/en/about-us/governance/rules-and-regulations/rules-of-tennis/",
+      "Key_Topics": "Scoring, lets, code violations, equipment",
+      "extracted_content": "# ITF Rules of Tennis - Key Points\n\n## Scoring System\n- **Game Scoring**: 0, 15, 30, 40, game\n- **Set Scoring**: First to 6 games with 2-game margin, or 7-6 tiebreaker\n- **Match Format**: Best of 3 or 5 sets depending on tournament level\n- **Tiebreaker**: First to 7 points with 2-point margin at 6-6 in sets\n\n## Court and Equipment Rules\n- **Court Dimensions**: 78 feet long, 27 feet wide (36 feet for doubles)\n- **Net Height**: 3 feet at center, 3.5 feet at posts\n- **Ball Specifications**: 2.57-2.70 inches diameter, 1.975-2.095 ounces weight\n- **Racquet Rules**: Maximum 29 inches length, 12.5 inches width\n\n## Service Rules\n- **Service Order**: Alternates each game\n- **Service Position**: Behind baseline, between center mark and sideline\n- **Let Service**: Replay if ball touches net but lands in service box\n- **Foot Fault**: Foot cannot touch baseline before contact\n\n## Code Violations\n- **Time Violations**: 25 seconds between points\n- **Coaching**: Not allowed during play (except designated periods)\n- **Racquet Abuse**: Penalty for violent action against equipment\n- **Unsportsmanlike Conduct**: Warning system for inappropriate behavior"
+    },
+    {
+      "Title": "ITF World Tennis Tour Regulations (2025)",
+      "Category": "Rules",
+      "Source_URL": "https://www.itftennis.com/en/about-us/governance/rules-and-regulations/world-tennis-tour-regulations/",
+      "Key_Topics": "Tournament entry, wildcards, penalties",
+      "extracted_content": null
+    },
+    {
+      "Title": "Systematic Review: Kinematics of the Tennis Serve (2024)",
+      "Category": "Technique/Biomechanics",
+      "Source_URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638800/",
+      "Key_Topics": "Serve mechanics, joint sequencing, injury prevention",
+      "extracted_content": null
+    },
+    {
+      "Title": "USTA Sport Science: Biomechanical Analysis of the Tennis Volley",
+      "Category": "Technique/Biomechanics",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Biomechanical%20Analysis%20of%20the%20Tennis%20Volley.pdf",
+      "Key_Topics": "Volley checkpoints, biomechanics, implications",
+      "extracted_content": "# Tennis Volley Biomechanics\n\n## Technical Checkpoints\n\n### Preparation Phase\n- **Ready Position**: Racquet up, weight on balls of feet\n- **Split Step Timing**: As opponent makes contact with ball\n- **Early Preparation**: Racquet back as soon as ball direction is identified\n- **Compact Backswing**: Minimal wind-up for quick reaction time\n\n### Contact Phase\n- **Contact Point**: In front of body, at comfortable reach\n- **Firm Grip**: Tighten grip just before contact\n- **Stable Wrist**: Maintain wrist position through contact\n- **Forward Movement**: Move into the ball, don't let it come to you\n\n### Follow-Through\n- **Short Follow-Through**: Control over power\n- **Direction Control**: Follow-through toward target\n- **Recovery**: Immediately return to ready position\n\n## Biomechanical Principles\n\n### Force Generation\n- **Kinetic Chain**: Ground reaction forces transfer through legs to upper body\n- **Core Stability**: Trunk provides stable platform for arm action\n- **Timing**: Synchronization of body segments for optimal power transfer\n\n### Injury Prevention\n- **Shoulder Stability**: Maintain scapular control throughout motion\n- **Elbow Position**: Keep elbow in front of body to reduce stress\n- **Wrist Alignment**: Neutral wrist position prevents overuse injuries\n- **Proper Footwork**: Good positioning reduces compensatory movements"
+    },
+    {
+      "Title": "ITF Conditioning: Fitness Training",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.itftennis.com/media/2510/2510.pdf",
+      "Key_Topics": "Training principles, tennis-specific fitness",
+      "extracted_content": "# Tennis-Specific Fitness Training\n\n## Training Principles\n\n### Periodization\n- **Off-Season**: Build aerobic base and general strength\n- **Pre-Season**: Develop tennis-specific fitness\n- **In-Season**: Maintain fitness while managing fatigue\n- **Recovery**: Active rest and injury prevention\n\n### Energy Systems\n- **Aerobic Base**: Foundation for recovery between points\n- **Anaerobic Power**: Short bursts of high-intensity movement\n- **Neuromuscular**: Quick reactions and explosive movements\n\n## Fitness Components\n\n### Cardiovascular Endurance\n- **Court Sprints**: 15-30 seconds with rest periods\n- **Interval Training**: Mix of high and moderate intensity\n- **Cross-Training**: Running, cycling, swimming for base fitness\n\n### Speed and Agility\n- **First Step Quickness**: Explosive movement from ready position\n- **Multi-Directional Movement**: Forward, backward, lateral patterns\n- **Reaction Training**: Response to visual and auditory cues\n- **Change of Direction**: Deceleration and acceleration skills\n\n### Strength Training\n- **Functional Movements**: Exercises that mimic tennis patterns\n- **Core Stability**: Rotational strength for powerful strokes\n- **Single-Leg Strength**: Improve balance and prevent injury\n- **Shoulder Complex**: Prevent overuse injuries from repetitive motions\n\n### Flexibility and Mobility\n- **Dynamic Warm-Up**: Prepare joints for tennis movements\n- **Static Stretching**: Post-training flexibility maintenance\n- **Injury Prevention**: Target tight areas (hip flexors, shoulders)\n- **Recovery**: Aid muscle repair and reduce soreness"
+    },
+    {
+      "Title": "ITF Conditioning: Fitness Testing",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.itftennis.com/media/2511/2511.pdf",
+      "Key_Topics": "Fitness tests, age norms, progress tracking",
+      "extracted_content": null
+    },
+    {
+      "Title": "USTA Agility/Movement Drills",
+      "Category": "Drills",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Agility%20and%20Movement%20Drills.pdf",
+      "Key_Topics": "Footwork drills, lateral alley, agility",
+      "extracted_content": null
+    },
+    {
+      "Title": "Developing Footwork Situationally",
+      "Category": "Drills",
+      "Source_URL": "https://journals.humankinetics.com/downloadpdf/journals/ijsc/1/2/article-p103.pdf",
+      "Key_Topics": "Tactical movement, situational drills",
+      "extracted_content": null
+    },
+    {
+      "Title": "Tennis Strategy Booklet",
+      "Category": "Tactics",
+      "Source_URL": "https://tenniseducation.com/strategybooklet.pdf",
+      "Key_Topics": "Singles & doubles tactics, patterns",
+      "extracted_content": "# Tennis Strategy and Tactics\n\n## Singles Strategy\n\n### Baseline Patterns\n- **Cross-Court Rally**: Safest shot with highest net clearance and longest court distance\n- **Inside-Out Forehand**: Running around backhand to hit forehand cross-court\n- **Short Ball Attack**: Move forward and hit down-the-line or sharp angle\n- **Defensive Lob**: High, deep ball to reset point when under pressure\n\n### Serve Patterns\n- **First Serve**: Target corners - wide, T, or body jam\n- **Second Serve**: Focus on placement over power, use spin\n- **Serve + 1**: Plan the next shot before serving\n- **Return Positions**: Stand closer for second serves\n\n### Court Positioning\n- **Recovery Position**: Return to center of possible return angles\n- **Offensive Position**: Move inside baseline when attacking\n- **Defensive Position**: Move back to handle pace and give time\n\n## Doubles Strategy\n\n### Formations\n- **Both Back**: Safe receiving formation\n- **One Up, One Back**: Standard serving formation\n- **Both Up**: Aggressive net position for finishing\n- **Australian Formation**: Server and partner on same side\n\n### Key Tactics\n- **Poaching**: Net player crosses to intercept return\n- **Down the Middle**: Safest passing shot in doubles\n- **Lob Over Net Player**: Effective when both players are up\n- **Body Shots**: Target the player between two opponents"
+    },
+    {
+      "Title": "Doubles Strategies for Beginners",
+      "Category": "Tactics",
+      "Source_URL": "https://www.tenniscourts.com/doubles-strategies-beginners.pdf",
+      "Key_Topics": "Doubles positioning, formations",
+      "extracted_content": null
+    },
+    {
+      "Title": "USTA Player Development: Training Pathway",
+      "Category": "Practice Planning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Team%20USA%20Player%20Development.pdf",
+      "Key_Topics": "Long-term pathway, loads, progression",
+      "extracted_content": null
+    },
+    {
+      "Title": "USTA Dynamic Warm-Up & Flexibility Guide",
+      "Category": "Strength & Conditioning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/Dynamic%20Warm-up%20Flexibility.pdf",
+      "Key_Topics": "Dynamic warm-up, stretches, flexibility",
+      "extracted_content": null
+    },
+    {
+      "Title": "AAOS Therapeutic Exercise for Tennis Elbow",
+      "Category": "Injury",
+      "Source_URL": "https://orthoinfo.aaos.org/globalassets/pdfs/tenniselbowexercises.pdf",
+      "Key_Topics": "Epicondylitis, rehab exercises",
+      "extracted_content": null
+    },
+    {
+      "Title": "USTA High-School Sample Practice Plan",
+      "Category": "Practice Planning",
+      "Source_URL": "https://www.usta.com/content/dam/usta/pdfs/NetGenPracticePlan.pdf",
+      "Key_Topics": "Session template, time-boxed plan",
+      "extracted_content": null
+    },
+    {
+      "Title": "Match Charting Project \u2013 Quickstart Guide",
+      "Category": "Practice/Charting",
+      "Source_URL": "https://www.matchchartingproject.com/assets/mcpquickstart.pdf",
+      "Key_Topics": "Charting notation, stats",
+      "extracted_content": null
+    },
+    {
+      "Title": "LTA Tennis Leaders Guide",
+      "Category": "Coaching",
+      "Source_URL": "https://www.lta.org.uk/leadership-guide.pdf",
+      "Key_Topics": "Leadership, coaching juniors",
+      "extracted_content": null
+    },
+    {
+      "Title": "LTA Clubs & Coaches Self-Service Guide",
+      "Category": "Coaching",
+      "Source_URL": "https://www.lta.org.uk/globalassets/officiating-roles/clubs-coaches-guide.pdf",
+      "Key_Topics": "Club management, coach relationships",
+      "extracted_content": null
+    },
+    {
+      "Title": "ITF JTI Guidance Document (2025)",
+      "Category": "Coaching",
+      "Source_URL": "https://www.itftennis.com/media/5404/5404.pdf",
+      "Key_Topics": "Junior pathways, coach education",
+      "extracted_content": null
+    }
+  ]
+}
